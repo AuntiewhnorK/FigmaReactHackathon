@@ -16,3 +16,7 @@ To run and see my figma cards:
 
 
 The orginal folder was cloned [here](https://github.com/christylo/figma-to-react-workshop). The Figma React Workshop focused on creating a card in React. I went a little further by adding another card and making more props for easier customization.
+
+---
+
+Currently having trouble pushing my code to Github from VSCode, updates soon!
